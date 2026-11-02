@@ -44,9 +44,3 @@ Full-stack developer focused on backend systems - REST APIs, authentication and 
 </div>
 
 ---
-
-<div align="center">
-
-Open to collaborating on open-source projects - reach me at [Krishnal.cse.dev@gmail.com](mailto:Krishnal.cse.dev@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/krishnapandey01/).
-
-</div>
