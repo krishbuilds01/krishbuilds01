@@ -26,7 +26,7 @@ Full-stack developer focused on backend systems - REST APIs, authentication and 
 ![Tech stack](https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,vue,python,java,mongodb,redis,git,github,vercel)
 
 </div>
-
+<div align="center">
 | Area | Technologies |
 | --- | --- |
 | Languages | JavaScript, TypeScript, Python, Java |
@@ -34,5 +34,5 @@ Full-stack developer focused on backend systems - REST APIs, authentication and 
 | Backend | Node.js, Express, REST APIs, JWT authentication |
 | Data & tools | MongoDB, Redis, Git/GitHub, Vercel |
 
-
+</div>
 ---
