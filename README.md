@@ -27,11 +27,3 @@ Full-stack developer focused on backend systems - REST APIs, authentication and 
 
 </div>
 
-| Area | Technologies |
-| --- | --- |
-| Languages | JavaScript, TypeScript, Python, Java |
-| Frontend | React, Next.js, Vue, HTML/CSS |
-| Backend | Node.js, Express, REST APIs, JWT authentication |
-| Data & tools | MongoDB, Redis, Git/GitHub, Vercel |
-
----
