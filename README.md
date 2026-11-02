@@ -39,7 +39,7 @@ Full-stack developer focused on backend systems - REST APIs, authentication and 
 
 <div align="center">
 
-<img alt="GitHub streak" src="https://streak-stats.demolab.com?user=krishbuilds01&hide_border=true" />
+<img alt="GitHub streak" src="https://streak-stats.demolab.com?user=krishbuilds01&hide_border=true](https://streak-stats.demolab.com?user=krishbuilds01&theme=dark&hide_border=true" />
 
 </div>
 
