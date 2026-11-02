@@ -17,9 +17,7 @@ Currently contributing to open source and preparing for Google Summer of Code 20
 
 ### About
 
-Full-stack developer focused on backend systems — REST APIs, authentication and data-heavy applications. Most of my work is in TypeScript/JavaScript and Python, and I care about code that other people can actually read, test and build on.
-
-Right now I am building **FleetOps**, contributing to open-source projects, and working towards GSoC 2027.
+Full-stack developer focused on backend systems - REST APIs, authentication and data-heavy applications. Most of my work is in TypeScript/JavaScript and Python, and I care about code that other people can actually read, test and build on.
 
 ### Tech stack
 
@@ -40,9 +38,6 @@ Right now I am building **FleetOps**, contributing to open-source projects, and 
 ### GitHub stats
 
 <div align="center">
-
-<img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=krishbuilds01&show_icons=true&hide_border=true" />
-<img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishbuilds01&layout=compact&hide_border=true" />
 
 <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=krishbuilds01&hide_border=true" />
 
