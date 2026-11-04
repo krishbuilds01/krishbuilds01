@@ -1,33 +1,27 @@
 <div align="center">
 
-# Hi, I'm Krishna
+# Hi, I am Krishna
 
-**Full-Stack Developer | Open-Source Contributor**
+**Full-Stack Developer · Open-Source Contributor**
 
-Building web applications, backend systems, and developer-focused tools with TypeScript, Node.js, and Python.
+I build web applications and APIs with TypeScript, Node.js and Python.
+Currently contributing to open source and preparing for Google Summer of Code 2027.
 
-Currently exploring open source, contributing to impactful projects, and preparing for **Google Summer of Code 2027**.
 
-<br/>
-
-<a href="https://github.com/Krishbuilds01">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krishbuilds01&theme=dark" width="100%" alt="GitHub Profile Summary"/>
-</a>
-
+<p align="center">
+  <a href="/">
+    <img height="240em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krishbuilds01&theme=dark">
+  </a>
+</p>
 </div>
 
 ---
 
-### About Me
+### About
 
-I'm a full-stack developer with a strong interest in backend engineering, scalable systems, and open-source development.
+Full-stack developer focused on backend systems - REST APIs, authentication and data-heavy applications. Most of my work is in TypeScript/JavaScript and Python, and I care about code that other people can actually read, test and build on.
 
-I primarily work with TypeScript, JavaScript, and Python, building REST APIs, authentication systems, and data-driven applications.
+### Tech stack
+![Tech stack](https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,vue,python,java,mongodb,redis,git,github,vercel)
 
-I value clean architecture, maintainable code, and meaningful contributions to projects that solve real-world problems.
-
-### Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,vue,python,java,mongodb,redis,git,github,vercel&theme=dark" alt="Tech Stack"/>
-</p>
+</div>
