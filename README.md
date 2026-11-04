@@ -11,7 +11,7 @@ Currently exploring open source, contributing to impactful projects, and prepari
 <br/>
 
 <a href="https://github.com/Krishbuilds01">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krishbuilds01&theme=github_dark" width="100%" alt="GitHub Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krishbuilds01&theme=dark" width="100%" alt="GitHub Profile Summary"/>
 </a>
 
 </div>
