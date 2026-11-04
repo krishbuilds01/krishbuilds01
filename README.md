@@ -7,13 +7,6 @@
 I build web applications and APIs with TypeScript, Node.js and Python.
 Currently contributing to open source and preparing for Google Summer of Code 2027.
 
-<p align="center">
-  <a href="/">
-    <img height="240em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krishbuilds01&theme=dark">
-  </a>
-</p>
-</div>
-
 ---
 
 ### About
@@ -25,6 +18,13 @@ Full-stack developer focused on backend systems - REST APIs, authentication and 
 <img width="800" height="340" alt="about" src="https://github.com/user-attachments/assets/3f200018-ab14-4637-8606-a08564b117d1" />
   </a>
 </p>
+
+<p align="center">
+  <a href="/">
+    <img height="240em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krishbuilds01&theme=dark">
+  </a>
+</p>
+</div>
 
 ### Tech stack
 ![Tech stack](https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,vue,python,java,mongodb,redis,git,github,vercel)
