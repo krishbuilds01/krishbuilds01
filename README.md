@@ -7,15 +7,12 @@
 I build web applications and APIs with TypeScript, Node.js and Python.
 Currently contributing to open source and preparing for Google Summer of Code 2027.
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krishbuilds01&theme=dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Krishbuilds01&theme=dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Krishbuilds01&theme=dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Krishbuilds01&theme=dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Krishbuilds01&theme=dark&utcOffset=0)
-[![Email](https://img.shields.io/badge/Email-Krishnal.cse.dev%40gmail.com-333333?style=flat&logo=gmail&logoColor=white)](mailto:Krishnal.cse.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnapandey01/)
-[![GitHub](https://img.shields.io/badge/GitHub-krishbuilds01-181717?style=flat&logo=github&logoColor=white)](https://github.com/krishbuilds01)
 
+<p align="center">
+  <a href="/">
+    <img height="240em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krishbuilds01&theme=dark">
+  </a>
+</p>
 </div>
 
 ---
