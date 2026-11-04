@@ -1,13 +1,14 @@
 <div align="center">
 
-# Hi, I am Krishna
+# Hi, I'm Krishna
 
 **Full-Stack Developer · Open-Source Contributor**
 
-I build web applications and APIs with TypeScript, Node.js and Python.
-Currently contributing to open source and preparing for Google Summer of Code 2027.
+Building web applications and backend systems with TypeScript, Node.js, and Python.
 
+Currently contributing to open source and working towards **Google Summer of Code 2027**.
 
+</div>
 <p align="center">
   <a href="/">
     <img height="240em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krishbuilds01&theme=dark">
