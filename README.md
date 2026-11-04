@@ -2,13 +2,12 @@
 
 # Hi, I'm Krishna
 
-**Full-Stack Developer · Open-Source Contributor**
+**Full-Stack Developer | Open-Source Contributor**
 
-Building web applications and backend systems with TypeScript, Node.js, and Python.
+I build scalable web applications, backend systems, and developer-focused tools using **TypeScript, Node.js, and Python**.
 
-Currently contributing to open source and working towards **Google Summer of Code 2027**.
+Currently exploring open-source development, collaborating on impactful projects, and preparing for **Google Summer of Code 2027**.
 
-</div>
 <p align="center">
   <a href="/">
     <img height="240em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krishbuilds01&theme=dark">
