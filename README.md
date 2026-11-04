@@ -1,12 +1,11 @@
 <div align="center">
 
-# Hi, I'm Krishna
+# Hi, I am Krishna
 
-**Full-Stack Developer | Open-Source Contributor**
+**Full-Stack Developer · Open-Source Contributor**
 
-I build scalable web applications, backend systems, and developer-focused tools using **TypeScript, Node.js, and Python**.
-
-Currently exploring open-source development, collaborating on impactful projects, and preparing for **Google Summer of Code 2027**.
+I build web applications and APIs with TypeScript, Node.js and Python.
+Currently contributing to open source and preparing for Google Summer of Code 2027.
 
 <p align="center">
   <a href="/">
