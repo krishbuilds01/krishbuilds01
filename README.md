@@ -30,4 +30,6 @@ Full-stack developer focused on backend systems - REST APIs, authentication and 
 
 ### Open-source contributions
 
-- **Meshery (Layer5)** - fixed `initiateQuery` dropping its options argument, so `getDesign` can force a refetch again. Merged. ([PR #22847](https://github.com/meshery/meshery/pull/22847))
+**Meshery (Layer5)**
+- Fixed `initiateQuery` dropping its options argument, so `getDesign` can force a refetch again. Merged. ([PR #22847](https://github.com/meshery/meshery/pull/22847))
+- Fixed `useLazyGetConnectionsQuery` sending `pagesize` instead of `pageSize`, so the page size was dropped. Merged. ([PR #22971](https://github.com/meshery/meshery/pull/22971))
