@@ -20,16 +20,8 @@ Currently contributing to open source and preparing for Google Summer of Code 20
 
 Full-stack developer focused on backend systems - REST APIs, authentication and data-heavy applications. Most of my work is in TypeScript/JavaScript and Python, and I care about code that other people can actually read, test and build on.
 
-
-
-
-### Tech stack
-![Tech stack](https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,vue,python,java,mongodb,redis,git,github,vercel)
-
-</div>
-
 ### Open-source contributions
 
 **Meshery (Layer5)**
 - Fixed `initiateQuery` dropping its options argument, so `getDesign` can force a refetch again. Merged. ([PR #22847](https://github.com/meshery/meshery/pull/22847))
-- Fixed `useLazyGetConnectionsQuery` sending `pagesize` instead of `pageSize`, so the page size was dropped. Merged. ([PR #22971](https://github.com/meshery/meshery/pull/22971))
+- Fixed `useLazyGetConnectionsQuery` sending `pagesize` instead of `pageSize`. Merged. ([PR #22971](https://github.com/meshery/meshery/pull/22971))
