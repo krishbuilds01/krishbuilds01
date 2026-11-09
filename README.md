@@ -25,3 +25,6 @@ Full-stack developer focused on backend systems - REST APIs, authentication and 
 **Meshery (Layer5)**
 - Fixed `initiateQuery` dropping its options argument, so `getDesign` can force a refetch again. Merged. ([PR #22847](https://github.com/meshery/meshery/pull/22847))
 - Fixed `useLazyGetConnectionsQuery` sending `pagesize` instead of `pageSize`. Merged. ([PR #22971](https://github.com/meshery/meshery/pull/22971))
+
+**Sugar Labs (Music Blocks)**
+- Replaced `console.debug` with `console.error` in the catch blocks of `js/themebox.js`. Merged. ([PR #10261](https://github.com/sugarlabs/musicblocks/pull/10261))
