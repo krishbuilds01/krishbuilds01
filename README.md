@@ -22,6 +22,9 @@ Full-stack developer focused on backend systems - REST APIs, authentication and 
 
 ### Open-source contributions
 
+**AWS (Powertools for AWS Lambda)**
+- Fixed empty or invalid `POWERTOOLS_DEV` crashing the Logger at startup, so it now warns and falls back instead. Merged. ([PR #8783](https://github.com/aws-powertools/powertools-lambda-python/pull/8783))
+
 **Meshery (Layer5)**
 - Fixed `initiateQuery` dropping its options argument, so `getDesign` can force a refetch again. Merged. ([PR #22847](https://github.com/meshery/meshery/pull/22847))
 - Fixed `useLazyGetConnectionsQuery` sending `pagesize` instead of `pageSize`. Merged. ([PR #22971](https://github.com/meshery/meshery/pull/22971))
